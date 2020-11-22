@@ -10,6 +10,7 @@ const App = () => {
   return (
     <ThemeContext.Provider value={theme}>
       <div>
+
         <header>
           <Link to="/">Adopt Me!</Link>
         </header>
